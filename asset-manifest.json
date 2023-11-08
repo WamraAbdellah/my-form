@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-form/static/css/main.aaea8f6f.css",
+    "main.js": "/my-form/static/js/main.17e90528.js",
+    "static/js/787.d4aba7ab.chunk.js": "/my-form/static/js/787.d4aba7ab.chunk.js",
+    "static/media/rm222-mind-14.jpg": "/my-form/static/media/rm222-mind-14.f8e10f82313fdbd3cd03.jpg",
+    "index.html": "/my-form/index.html",
+    "main.aaea8f6f.css.map": "/my-form/static/css/main.aaea8f6f.css.map",
+    "main.17e90528.js.map": "/my-form/static/js/main.17e90528.js.map",
+    "787.d4aba7ab.chunk.js.map": "/my-form/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaea8f6f.css",
+    "static/js/main.17e90528.js"
+  ]
+}
